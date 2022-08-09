@@ -38,6 +38,7 @@ You can find all the documentation here :
 
 https://developer.spotify.com/
 
+---
 ### Other :
 If you have any comment or idea to increment on the engine fell free to reach out!
 
