@@ -20,8 +20,17 @@ This is the first version of the SPOTIFAPP!
 + Time 
 + Random
 
-To install all at once, just run the requirements.txt file on your terminal.
+---
 
+## Installation:
+
+To install all the requirements at once, for the engine to work, just run the code below in your terminal.
+
+#### PS : Run the code inside the project folder
+### Bash Code :
+_pip3 install -r requirements.txt_
+
+---
 ### Other :
 If you have any comment or idea to increment on the engine fell free to reach out!
 
