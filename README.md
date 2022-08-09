@@ -29,6 +29,15 @@ To install all the requirements at once, for the engine to work, just run the co
 _pip3 install -r requirements.txt_
 
 ---
+### Running :
+
+For you be able to run the code of your on, you need a Spotify Dev Account.
+After creating the account you will need the Keys that you will be prompt in your dashboard.
+
+You can find all the documentation here :
+
+https://developer.spotify.com/
+
 ### Other :
 If you have any comment or idea to increment on the engine fell free to reach out!
 
