@@ -1,7 +1,5 @@
 # SpotifApp
 
-
-
 An application using a Spotify API
 
 
