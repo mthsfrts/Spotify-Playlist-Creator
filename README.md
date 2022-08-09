@@ -20,7 +20,7 @@ This is the first version of the SPOTIFAPP!
 
 ---
 
-## Installation:
+### Installation:
 
 To install all the requirements at once, for the engine to work, just run the code below in your terminal.
 
