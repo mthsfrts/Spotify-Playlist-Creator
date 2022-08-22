@@ -40,7 +40,7 @@ https://developer.spotify.com/
 
 ---
 ### Other :
-If you have any comment or idea to increment on the engine fell free to reach out!
+If you have any comment or idea to increment on the engine feel free to reach out!
 
 The **'V.2'** will probably take a machine learn or AI approach to make some advanced 
 features to be able to get more accurate results based on what you listen automatically.
